@@ -45,6 +45,7 @@ The SQL queries answer questions in **four main categories**:
 - `Queries.sql` – All 24 SQL queries
 - `schemas.sql` - Schemas and data cleaning
 - `README.md` – Project overview (this file)
+- `customer_shopping_data.csv` - data
 
 ---
 
@@ -58,10 +59,10 @@ The SQL queries answer questions in **four main categories**:
 ---
 
 ## 📈 Example Insights from Sample Data
-- **December** had the highest revenue due to holiday promotions.
+- **January** had the highest revenue due to holiday promotions.
 - **Females** contributed 20% more revenue than males.
 - **Top 20% customers** generated ~60% of total revenue.
-- **Weekends** had 27% higher sales than weekdays.
+- **Weekdays** had 43% higher sales than weekdays.
 
 ---
 
